@@ -1,5 +1,7 @@
 # The Spoken corpus of Bashkir (Rakhmetovo and Baimovo) Data Repository
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7005075.svg)](https://doi.org/10.5281/zenodo.7005075)
+
 This repository is the place where the data from the [Spoken corpus of Bashkir (Rakhmetovo and Baimovo)](http://lingconlab.ru/spoken_bashkir/) is curated. This repository also provides an alternative way to access corpus data locally. The data is stored in `data_oral_bashkir_corpus.csv` with 36545 rows and 14 columns:
 
 * `filename`
@@ -33,8 +35,8 @@ Maria Ovsjannikova, Sergey Say, Ekaterina Aplonova, Anna Smetina, Elena Sokur. S
 You may contact with questions about the Corpus data or leave an issue in this repository:
 
 masha.ovsjannikova@gmail.com (Maria Ovsjannikova)
-serjozhka@yahoo.com (Sergey Say)
 
+serjozhka@yahoo.com (Sergey Say)
 
 You may contact with questions about the search platform or leave an issue in [its own repository](https://github.com/LingConLab/Bashkir_corpus):
 
