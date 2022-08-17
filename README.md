@@ -7,7 +7,6 @@ This repository is the place where the data from the [Spoken corpus of Bashkir (
 * `filename`
 * `time_start`
 * `time_end`
-* `filename`
 * `speaker`
 * `recorded`
 * `sentence_id`
