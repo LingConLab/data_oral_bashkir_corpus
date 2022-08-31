@@ -1,6 +1,4 @@
-# The Spoken corpus of Bashkir (Rakhmetovo and Baimovo) Data Repository
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7005075.svg)](https://doi.org/10.5281/zenodo.7005075)
+# Spoken corpus of Bashkir (Rakhmetovo and Baimovo) Data Repository
 
 This repository is the place where the data from the [Spoken corpus of Bashkir (Rakhmetovo and Baimovo)](http://lingconlab.ru/spoken_bashkir/) is curated. This repository also provides an alternative way to access corpus data locally. The data is stored in `data_oral_bashkir_corpus.csv` with 36545 rows and 14 columns:
 
